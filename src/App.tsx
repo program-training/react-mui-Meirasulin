@@ -1,12 +1,12 @@
-import './App.css'
+import "./App.css";
+import Title from "./exercise/Title";
 
 function App() {
-
   return (
     <>
-      <div>hello !</div>
+      <Title />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
